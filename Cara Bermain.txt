@@ -1,0 +1,3 @@
+Control : MOuse left Click = move
+
+About : Seorang Astronot luar angkasa sedang mejelajahi sebuah planet, namun saat ingin kembali ke kapal, dia tersesat dan menemukan sebuah gua dan mulailah penjelahan itu.
